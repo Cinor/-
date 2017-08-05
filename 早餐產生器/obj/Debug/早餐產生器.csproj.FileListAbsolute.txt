@@ -1,0 +1,9 @@
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\bin\Debug\早餐產生器.exe.config
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.csprojResolveAssemblyReference.cache
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.Properties.Resources.resources
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.csproj.GenerateResource.Cache
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\bin\Debug\早餐產生器.exe
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\bin\Debug\早餐產生器.pdb
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.exe
+c:\users\cinor\documents\visual studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.pdb
+C:\Users\Cinor\Documents\Visual Studio 2013\Projects\早餐產生器\早餐產生器\obj\Debug\早餐產生器.Form1.resources
